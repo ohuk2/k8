@@ -1,0 +1,1 @@
+{"jobID":"f124482a-1cb2-9eb4-2474-1b019bc8ea6d","spec":{"type":"policy","cause":{"Message":"","User":"Ove Hansen \u003cove.hansen@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
